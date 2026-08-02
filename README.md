@@ -60,4 +60,4 @@ Valida se um determinado número inteiro informado é **primo** ou não.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/cec1l14/Listas.git
