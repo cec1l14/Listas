@@ -1,6 +1,6 @@
 # 🐍 Exercícios de Programação em Python
 
-Este repositório contém as soluções das listas de exercícios de **Introdução à Programação**, desenvolvidas inteiramente na linguagem **Python**.
+Este repositório contém as minhas soluções das listas de exercícios de **Introdução à Programação**, desenvolvidas inteiramente na linguagem **Python**.
 
 ---
 
@@ -28,7 +28,7 @@ Below está o mapa de tópicos abordados em cada uma das listas de exercícios:
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** [Python 3.x](https://www.python.org/)
-* **IDE/Editor:** [VS Code]
+* **IDE/Editor:** [VS Code](https://code.visualstudio.com/download?_exp_download=d53503e735)
 
 ---
 
